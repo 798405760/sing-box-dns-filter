@@ -2,7 +2,9 @@ import requests
 
 urls = [
     "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-    "https://big.oisd.nl"
+    "https://big.oisd.nl",
+    "https://github.com/TG-Twilight/AWAvenue-Ads-Rule/raw/refs/heads/main/AWAvenue-Ads-Rule.txt",
+    "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt"
 ]
 
 unique_lines = set()
